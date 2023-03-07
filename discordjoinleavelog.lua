@@ -1,4 +1,4 @@
-a-- Variables Prep --
+-- Variables Prep --
 
 local Players = game:GetService("Players")
 local http = game:GetService("HttpService")
